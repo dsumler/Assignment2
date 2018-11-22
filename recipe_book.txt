@@ -1,3 +1,134 @@
+<<<<<<< HEAD
+Deserts
+
+1) Apple Pie
+
+	Ingredients
+
+		Dairy
+			1 tablespoon butter
+
+		Fruit
+			6 to 7 cups thinly sliced peeled tart apples
+			1 teaspoon lemon juice
+
+		Herbs & Spices
+			1/4 teaspoon ground nutmeg
+
+		Carbohydrates
+			64g white sugar (1/2 cup) + Additional Sugar
+			64g packed brown sugar (1/2 cup)
+
+		Grains
+			3 tablespoons all-purpose flour
+
+		Protein
+			2 egg white
+
+	Steps
+
+		1) In a small bowl, combine the sugars, flour and spices; set aside. In a large bowl, toss apples with lemon juice. Add sugar mixture; toss to coat.
+		2) Line a 9-in. pie plate with bottom crust; trim even with edge. Fill with apple mixture; dot with butter. Roll remaining crust to fit top of pie; place over filling. Trim, seal and flute edges. Cut slits in crust.
+		3) Beat egg white until foamy; brush over crust. Sprinkle with sugar. Cover edges loosely with foil.
+		4) Bake at 375° for 25 minutes. Remove foil and bake until crust is golden brown and filling is bubbly, 20-25 minutes longer. Cool on a wire rack.
+	
+	Quoted from: "https://www.tasteofhome.com/recipes/apple-pie/"
+
+2) Carrot Cake
+
+	Ingredients
+		
+		Dairy
+			100g natural yogurt
+			100g slightly salted butter
+			100g full-fat cream cheese, softened
+
+		Vegetables
+			265g carrots (about 3), grated
+
+		Fruit
+			½ an orange, zested
+			100g sultanas or raisins
+
+		Oils
+			235ml vegetable oil, plus extra for the tin
+			1½ tsp vanilla extract
+
+		Herbs & Spices
+			2½ tsp ground cinnamon
+			¼ fresh nutmeg, finely grated
+
+		Carbohydrates
+			335g light muscovado sugar		
+			300g icing sugar
+
+		Grains
+			265g self-raising flour
+
+		Protein
+			4 large eggs
+
+		Nuts
+			100g walnuts or pecans, roughly chopped (optional)
+
+
+	Steps
+
+		1) Heat oven to 180C/160C fan/gas 4. Oil and line the base and sides of two 20cm cake tins with baking parchment. Whisk the oil, yogurt, eggs, vanilla and zest in a jug. Mix the flour, sugar, cinnamon and nutmeg with a good pinch of salt in a bowl. Squeeze any lumps of sugar through your fingers, shaking the bowl a few times to bring the lumps to the surface.
+		2) Add the wet ingredients to the dry, along with the carrots, raisins and half the nuts, if using. Mix well to combine, then divide between the tins. Bake for 25-30 mins or until a skewer inserted into the centre of the cake comes out clean. If any wet mixture clings to the skewer, return to the oven for 5 mins, then check again. Leave to cool in the tins.
+		3) To make the icing, beat the butter and sugar together until smooth. Add half the cream cheese and beat again, then add the rest (adding it bit by bit prevents the icing from splitting). Remove the cakes from the tins and sandwich together with half the icing. Top with the remaining icing and scatter with the remaining walnuts. Will keep in the fridge for up to five days. Best eaten at room temperature.
+
+	Quoted from: "https://www.bbcgoodfood.com/recipes/carrot-cake"
+
+
+3) Cinnamon Roll Pancakes
+
+	Ingredients
+
+		Dairy
+			3/4 cup milk
+			1/4 cup + 2 tablespoons butter, melted
+			1/4 cup butter, softened
+			2 ounces cream cheese, at room temperature
+
+		Oils
+			2 teaspoons vanilla extract
+			
+		Herbs & Spices
+			1 1/2 teaspoons ground cinnamon
+
+		Carbohydrates
+			2 tablespoons white sugar
+			5 1/2 tablespoons packed brown sugar
+			3/4 cup confectioners' sugar
+
+		Grains
+			1 cup all-purpose flour
+			1 teaspoon baking powder
+
+		Protein
+			1 egg
+
+		Addatives
+			2 tablespoons white distilled vinegar
+			1/2 teaspoon baking soda
+			1/2 teaspoon salt
+			cooking spray
+
+
+	Steps
+
+		1) Stir milk and vinegar together in a bowl; set aside until milk "sours", about 5 minutes.
+		2) Mix flour, white sugar, baking powder, baking soda, and salt together in a separate bowl. Whisk egg, 2 tablespoons melted butter, and 1 1/2 teaspoons vanilla extract into milk mixture. Slowly pour milk mixture into flour mixture while whisking constantly until batter is just moistened and evenly mixed. Lumps are fine.
+		3) Combine brown sugar, 1/4 cup melted butter, and cinnamon in a small bowl. Place a 1-quart resealable bag into a glass or cup. Pour cinnamon mixture into the bag; refrigerate until filling is as thick as toothpaste, about 10 minutes.
+		4) Mix 1/4 cup softened butter and cream cheese together in a microwave-safe bowl; heat in microwave for 40 seconds. Stir mixture with a whisk or fork until smooth. Continue heating in microwave and stirring until mixture is completely melted. Stir confectioners' sugar and 1/2 teaspoon vanilla extract into cream cheese mixture until icing is smooth.
+		5) Heat a griddle or skillet over medium heat and spray with cooking spray. Pour about 2/3 cup batter into the center of griddle. Cook pancake until bubbles start to appear, 2 to 3 minutes. Cut 1 corner off the center of the bag with filling. Swirl filling over pancake, leaving enough space around edges that filling doesn't touch the griddle.
+		6) Flip pancake and cook until other side is lightly browned, 2 to 3 minutes. Drizzle icing over pancake. Repeat with remaining ingredients, spraying the griddle with cooking spray between each pancake.
+
+	Tip: Aluminum foil helps keep food moist, ensures it cooks evenly, keeps leftovers fresh, and makes clean-up easy.
+
+	Quoted From: "https://www.allrecipes.com/recipe/244767/cinnamon-roll-pancakes/"
+=======
 1)CAPRESE PASTA SALAD
 
 Ingredients:
@@ -193,3 +324,4 @@ https://cookieandkate.com/2017/vegetable-fried-rice-recipe/
 
 
 
+>>>>>>> 8a4eb5f01a23a54ceafc91ea664c9e9a3d87272e
