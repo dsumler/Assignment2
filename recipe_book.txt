@@ -76,13 +76,13 @@ Source: "https://www.bbcgoodfood.com/recipes/1499/moroccan-chickpea-soup"
 Dairy
 	4 eggs
 Vegetables
-	2 avocados, peeled and stoned
 	2 x 400g cans of beans (pinto or kidney)
-	1 red chilli, deseeded and finely sliced
 Herbs & Spices
 	large bunch coriander, leaves only, roughly chopped
 	½ tsp cumin
 Fruit
+	1 red chilli, deseeded and finely sliced
+	2 avocados, peeled and stoned
 	250g punnet cherry tomato, halved
 Sauces
 	bottle bought good-quality dressing 
@@ -97,8 +97,10 @@ Method of preparation:
    Serve straight away – delicious with toasted tortillas.
 
 Source: "https://www.bbcgoodfood.com/recipes/4714/mexican-bean-salad"
-=======
-Deserts
+
+=====================================================================================================================================================================================================================================
+
+				Deserts
 
 1) Apple Pie
 
@@ -227,7 +229,11 @@ Deserts
 	Tip: Aluminum foil helps keep food moist, ensures it cooks evenly, keeps leftovers fresh, and makes clean-up easy.
 
 	Quoted From: "https://www.allrecipes.com/recipe/244767/cinnamon-roll-pancakes/"
-=======
+
+=====================================================================================================================================================================================================================================
+
+				Main Courses
+
 1)CAPRESE PASTA SALAD
 
 Ingredients:
@@ -410,3 +416,5 @@ SOURCES
 https://cookieandkate.com/2018/caprese-pasta-salad/
 https://cookieandkate.com/2016/better-broccoli-casserole-recipe/
 https://cookieandkate.com/2017/vegetable-fried-rice-recipe/
+
+=====================================================================================================================================================================================================================================
